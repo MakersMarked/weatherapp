@@ -2,6 +2,9 @@ import {fetchData} from './weather';
 import { display } from '../display';
 import './style.css';
 
+
+
+
 const img = document.querySelector('.img')
 const input = document.querySelector('input');
 const btn = document.querySelector('button');
